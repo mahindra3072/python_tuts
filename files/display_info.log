@@ -1,0 +1,11 @@
+INFO:root:Ran with args: ('mahindra', 25), and kwargs: {}
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: e1aba9d7-e05e-496f-8b6a-2b2c18f44f6a
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 5f1002a5-b6f7-4b51-be80-bf46dbc27b5b
+INFO:root:Ran with args: ('mahindra', 25), and kwargs: {}
+INFO:root:Ran with args: ('mahindra', 25), and kwargs: {}
+INFO:root:Ran with args: ('mahindra', 25), and kwargs: {}
+INFO:root:Ran with args: ('test', 25), and kwargs: {}
+INFO:root:Ran with args: ('test', 25), and kwargs: {}
+INFO:root:Ran with args: ('test', 25), and kwargs: {}
